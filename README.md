@@ -1,10 +1,8 @@
-Here’s a complete and professional `README.md` file for your **Python CLI To-Do List Tool** GitHub repository:
 
----
 
 ### 📄 `README.md`
 
-````markdown
+
 # 📝 Python CLI To-Do List Manager
 
 A simple and functional Command-Line Interface (CLI) tool built using Python. This tool helps you manage your daily tasks directly from the terminal. You can add, view, update, and delete tasks using simple commands.
