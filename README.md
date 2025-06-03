@@ -1,6 +1,3 @@
-### 📄 `README.md`
-
-````markdown
 # 📝 Python CLI To-Do List Manager
 
 A simple and functional Command-Line Interface (CLI) tool built using Python. This tool helps you manage your daily tasks directly from the terminal. You can add, view, update, and delete tasks using simple commands.
@@ -31,7 +28,6 @@ A simple and functional Command-Line Interface (CLI) tool built using Python. Th
    ```bash
    git clone https://github.com/YourUsername/python-cli-todo.git
    cd python-cli-todo
-````
 
 2. Run the script with Python:
 
